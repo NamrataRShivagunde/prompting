@@ -7,7 +7,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 
-name = "facebook/opt-30b"
+name = "facebook/opt-13b"
 text = "Hello my name is"
 max_new_tokens = 20
 
